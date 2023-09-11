@@ -44,7 +44,7 @@
 #### Решение 1
 
 ![haproxy.png)](https://github.com/v1us1885/haproxy/blob/master/haproxy.png)
-[haproxy.conf]()
+[haproxy.conf](https://github.com/v1us1885/haproxy/blob/master/haproxy2.conf)
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
@@ -54,3 +54,6 @@
 
 
 #### Решение 2
+
+![haproxy.png)](https://github.com/v1us1885/haproxy/blob/master/haproxy-7-.png)
+[haproxy.conf](https://github.com/v1us1885/haproxy/blob/master/haproxy-7.conf)
